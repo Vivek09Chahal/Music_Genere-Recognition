@@ -1,7 +1,9 @@
 # GitHub Codespaces ♥️ Jupyter Notebooks
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+Welcome to your Music Genere Recognition 🎵🎵 repository! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+main.ipynb is python notebook contain codo which recognize the genere of the music by understanding it
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+the accuracy of the model is 0.68 percent trained on the data set of GTZAN dataset
+
+you can check it out and will be glad if you can improve it more and will able to increase it's accuracy
